@@ -51,13 +51,13 @@ MonoBehaviour:
   HomeLogo: {fileID: 21300000, guid: 8cac6647a17e2314e84ead3703772aa3, type: 3}
   TransitionLogo: {fileID: 21300000, guid: d9ff2c3e61d61e046b4f17854574508b, type: 3}
   Flag3D: {fileID: 0}
-  AppVersion: 2.0.0.0
+  AppVersion: 2.0.1.1
   CloudManifest: NONE
   ProductName: "Fran\xE7ais avec Antura"
   UnityProjectId: c4f44d0b-5566-4811-9d96-dd59686d708b
   Android_BundleIdentifier: org.antura.learn.french
   iOS_BundleIdentifier: org.antura.learn.french
-  BundleVersion: 2.0.0.0
+  BundleVersion: 2.0.1.1
   Android_AppIcon: {fileID: 2800000, guid: d7c4cfb4703706c42a4da07e0b4e87e5, type: 3}
   iOS_AppIcon: {fileID: 2800000, guid: d7c4cfb4703706c42a4da07e0b4e87e5, type: 3}
   SplashLogos:

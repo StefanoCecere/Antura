@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 0
   companyName: VGWB
-  productName: Antura Arabic
+  productName: "Fran\xE7ais avec Antura"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -40,9 +40,9 @@ PlayerSettings:
     width: 1
     height: 1
   m_SplashScreenLogos:
-  - logo: {fileID: 21300000, guid: 544758c03c33b46628ba3f8780d003a7, type: 3}
+  - logo: {fileID: 21300000, guid: 669b3bbda8d722c4ba95203e7bdd1924, type: 3}
     duration: 2
-  - logo: {fileID: 21300000, guid: c52648c57fdfa4b66a96df79a3dca8db, type: 3}
+  - logo: {fileID: 21300000, guid: d8f1058f284d0ff45bbc8d712848f28b, type: 3}
     duration: 2
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
@@ -157,10 +157,10 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: org.eduapp4syria.antura
+    Android: org.antura.learn.french
     Standalone: org.antura.learn.french
     Tizen: org.eduapp4syria.antura
-    iPhone: org.eduapp4syria.antura
+    iPhone: org.antura.learn.french
     tvOS: org.eduapp4syria.antura
   buildNumber:
     Standalone: 0
@@ -420,7 +420,7 @@ PlayerSettings:
   - m_BuildTarget: iPhone
     m_Icons:
     - m_Textures:
-      - {fileID: 2800000, guid: 27d68ad4edb6c48a2831ca67fb82db32, type: 3}
+      - {fileID: 2800000, guid: d7c4cfb4703706c42a4da07e0b4e87e5, type: 3}
       m_Width: 180
       m_Height: 180
       m_Kind: 0
@@ -1002,7 +1002,7 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: ca7a3389-ec6c-44b1-a44d-aa0da4930165
+  cloudProjectId: c4f44d0b-5566-4811-9d96-dd59686d708b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Antura_arabic
